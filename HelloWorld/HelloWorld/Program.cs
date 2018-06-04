@@ -11,6 +11,7 @@ namespace HelloWorld
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World from Trunk");
+            Console.WriteLine("Hello World from Trunk - 01");
         }
     }
 }
